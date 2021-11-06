@@ -1,0 +1,58 @@
+{
+  "order_uid": 87,
+  "entry": "helloooooooooooooooooooooo entry",
+  "internal_signature": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo internal_signature",
+  "locale": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "customer_id": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "track_number": "helloooooo locale",
+  "delivery_service": "PONY",
+  "shardkey": "helloooooooooo locale",
+  "items": [
+    {
+      "chrt_id": 97,
+      "price": 100,
+      "rid": "hellooooooooooooooooooo transaction",
+      "name": "hellooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "sale": 92,
+      "size": "XL",
+      "total_price": 28,
+      "nm_id": 48,
+      "brand": "GUCCHI"
+    },
+    {
+      "chrt_id": 56,
+      "price": 75,
+      "rid": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "helloooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "sale": 93,
+      "size": "M",
+      "total_price": 97,
+      "nm_id": 32,
+      "brand": "BEBENSIAGA"
+    },
+    {
+      "chrt_id": 77,
+      "price": 64,
+      "rid": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "hellooooooooooooooooooooooooooooooooo transaction",
+      "sale": 93,
+      "size": "L",
+      "total_price": 69,
+      "nm_id": 47,
+      "brand": "BEBENSIAGA"
+    }
+  ],
+  "payment": [
+    {
+      "transaction": "hellooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "currency": "hellooooooo currency",
+      "provider": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo provider",
+      "amount": 50,
+      "payment_dt": "1999-03-07",
+      "bank": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo bank",
+      "delivery_cost": 82,
+      "goods_total": 79
+    }
+  ],
+  "sm_id": 81
+}

@@ -1,0 +1,58 @@
+{
+  "order_uid": 12,
+  "entry": "helloooooooooooooooooooooooooooooooooooo entry",
+  "internal_signature": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo internal_signature",
+  "locale": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "customer_id": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "track_number": "helloooooooooooooooooooooooooo locale",
+  "delivery_service": "BB GROUP",
+  "shardkey": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "items": [
+    {
+      "chrt_id": 19,
+      "price": 76,
+      "rid": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "helloooooooooooooooooooooooooooooooooo transaction",
+      "sale": 51,
+      "size": "L",
+      "total_price": 46,
+      "nm_id": 63,
+      "brand": "VANELE"
+    },
+    {
+      "chrt_id": 96,
+      "price": 59,
+      "rid": "helloooo transaction",
+      "name": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "sale": 46,
+      "size": "M",
+      "total_price": 19,
+      "nm_id": 56,
+      "brand": "BEBENSIAGA"
+    },
+    {
+      "chrt_id": 67,
+      "price": 71,
+      "rid": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "sale": 80,
+      "size": "M",
+      "total_price": 50,
+      "nm_id": 44,
+      "brand": "BEBENSIAGA"
+    }
+  ],
+  "payment": [
+    {
+      "transaction": "hellooooooooooooooooooooooooooooooooooooooooo transaction",
+      "currency": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo currency",
+      "provider": "helloooooooooooooooooooooooooooooooo provider",
+      "amount": 28,
+      "payment_dt": "1989-10-27",
+      "bank": "helloooooooooooooooooooo bank",
+      "delivery_cost": 68,
+      "goods_total": 81
+    }
+  ],
+  "sm_id": 11
+}

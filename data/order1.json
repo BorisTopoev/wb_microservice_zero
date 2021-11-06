@@ -1,0 +1,57 @@
+{
+  "order_uid": "74",
+  "entry": "helloooooooooooooooooooooooooooooo entry",
+  "internal_signature": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo internal_signature",
+  "locale": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "customer_id": "hellooooooooooooooooooooooooo locale",
+  "track_number": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "delivery_service": "EEEE",
+  "shardkey": "helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo locale",
+  "items": [
+    {
+      "chrt_id": 93,
+      "price": 95,
+      "rid": "helloooooooooooooooooooooooo rid",
+      "name": "helloooooooooooooo name",
+      "sale": 40,
+      "size": "M",
+      "total_price": 60,
+      "nm_id": 31,
+      "brand": "GUCCHI"
+    },
+    {
+      "chrt_id": 78,
+      "price": 94,
+      "rid": "hellooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "sale": 76,
+      "size": "M",
+      "total_price": 43,
+      "nm_id": 79,
+      "brand": "PRIOR"
+    },
+    {
+      "chrt_id": 95,
+      "price": 97,
+      "rid": "hellooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo transaction",
+      "name": "hellooooooooooo transaction",
+      "sale": 61,
+      "size": "M",
+      "total_price": 56,
+      "nm_id": 71,
+      "brand": "PRIOR"
+    }
+  ],
+  "payment":
+    {
+      "transaction": "helloooooooooooooooooooooooo transaction",
+      "currency": "helloooooooooooooooooooooooooooooooooooooooo currency",
+      "provider": "helloooooooooooo provider",
+      "amount": 76,
+      "payment_dt": "1987-06-22",
+      "bank": "helloooooooooooooooooooooooooooooooooo bank",
+      "delivery_cost": 72,
+      "goods_total": 20
+    },
+  "sm_id": 72
+}
